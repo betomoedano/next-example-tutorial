@@ -13,10 +13,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://codewithbeto.vercel.app/">Code With Beto</a>
         </h1>
         <h1 className={styles.title}>
-          <p>Welcome to my first website!</p>
+          <p>Sign Up for free! 👨🏻‍💻</p>
         </h1>
       </main>
     </div>
